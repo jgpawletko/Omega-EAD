@@ -13,10 +13,10 @@
                 },
                 "p": [
                     {
-                        "value": "\u003cspan class=\"ead-chronlist\"\u003e\n          \u003cspan class=\"ead-head\"\u003eThe following chronology provides a backdrop for the Board of Higher Education of\n            the City of New York cases included within this collection:\u003c/span\u003e\n          \u003cspan class=\"ead-chronitem\"\u003e\n            \u003cspan class=\"ead-date\"\u003e1939\u003c/span\u003e\n            \u003cspan class=\"ead-eventgrp\"\u003e\n              \u003cspan class=\"ead-event\"\u003eThe \u003cspan class=\"ead-emph ead-emph-italic\"\u003eNew York State Legislature\u003c/span\u003e enacted Section\n                12-a of the \u003cspan class=\"ead-title\"\u003eCivil Service Law\u003c/span\u003e which provided in substance that \"no\n                person shall be appointed to or retained in the public service nor in any public\n                educational institution who becomes a member of any organization which advocates the\n                overthrow of government by force or violence, or by any unlawful means (L. 1939, Ch.\n                547).\"\u003c/span\u003e\n            \u003c/span\u003e\n          \u003c/span\u003e\n        \u003c/span\u003e"
+                        "value": "\u003cspan class=\"ead-chronlist\"\u003e           \u003cspan class=\"ead-head\"\u003eThe following chronology provides a backdrop for the Board of Higher Education of             the City of New York cases included within this collection:\u003c/span\u003e           \u003cspan class=\"ead-chronitem\"\u003e             \u003cspan class=\"ead-date\"\u003e1939\u003c/span\u003e             \u003cspan class=\"ead-eventgrp\"\u003e               \u003cspan class=\"ead-event\"\u003eThe \u003cspan class=\"ead-emph ead-emph-italic\"\u003eNew York State Legislature\u003c/span\u003e enacted Section                 12-a of the \u003cspan class=\"ead-title\"\u003eCivil Service Law\u003c/span\u003e which provided in substance that \"no                 person shall be appointed to or retained in the public service nor in any public                 educational institution who becomes a member of any organization which advocates the                 overthrow of government by force or violence, or by any unlawful means (L. 1939, Ch.                 547).\"\u003c/span\u003e             \u003c/span\u003e           \u003c/span\u003e         \u003c/span\u003e"
                     },
                     {
-                        "value": "\u003cspan class=\"ead-list\"\u003e\n          \u003cspan class=\"ead-listhead\"\u003e\n            \u003cspan class=\"ead-head01\"\u003eAbbreviation\u003c/span\u003e\n            \u003cspan class=\"ead-head02\"\u003eExpansion\u003c/span\u003e\n          \u003c/span\u003e\n          \u003cspan class=\"ead-defitem\"\u003e\n            \u003cspan class=\"ead-label\"\u003eMIT\u003c/span\u003e\n            \u003cspan class=\"ead-item\"\u003eMassachusetts Institute of Technology\u003c/span\u003e\n          \u003c/span\u003e\n          \u003cspan class=\"ead-defitem\"\u003e\n            \u003cspan class=\"ead-label\"\u003ePCV\u003c/span\u003e\n            \u003cspan class=\"ead-item\"\u003ePeace Corps Volunteer\u003c/span\u003e\n          \u003c/span\u003e\n        \u003c/span\u003e",
+                        "value": "\u003cspan class=\"ead-list\"\u003e           \u003cspan class=\"ead-listhead\"\u003e             \u003cspan class=\"ead-head01\"\u003eAbbreviation\u003c/span\u003e             \u003cspan class=\"ead-head02\"\u003eExpansion\u003c/span\u003e           \u003c/span\u003e           \u003cspan class=\"ead-defitem\"\u003e             \u003cspan class=\"ead-label\"\u003eMIT\u003c/span\u003e             \u003cspan class=\"ead-item\"\u003eMassachusetts Institute of Technology\u003c/span\u003e           \u003c/span\u003e           \u003cspan class=\"ead-defitem\"\u003e             \u003cspan class=\"ead-label\"\u003ePCV\u003c/span\u003e             \u003cspan class=\"ead-item\"\u003ePeace Corps Volunteer\u003c/span\u003e           \u003c/span\u003e         \u003c/span\u003e",
                         "list": [
                             {
                                 "numeration": "arabic",
@@ -101,10 +101,10 @@
                 },
                 "p": [
                     {
-                        "value": "This is the Bibliography. \u003cspan class=\"ead-bibref\"\u003e\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas\n            Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e.\n          Port-au-Prince, 1865.\u003c/span\u003e",
+                        "value": "This is the Bibliography. \u003cspan class=\"ead-bibref\"\u003e\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas             Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e.           Port-au-Prince, 1865.\u003c/span\u003e",
                         "bibref": [
                             {
-                                "value": "\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas\n            Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e.\n          Port-au-Prince, 1865.",
+                                "value": "\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas             Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e.           Port-au-Prince, 1865.",
                                 "title": [
                                     {
                                         "value": "Essais sur l'histoire d'Haiti",
@@ -185,7 +185,7 @@
         "did": {
             "physdesc": [
                 {
-                    "value": "\n        \u003cspan class=\"ead-extent\"\u003e25 Linear Feet\u003c/span\u003e\n        \u003cspan class=\"ead-extent\"\u003ein 24 record cartons, \u003cspan class=\"ead-emph ead-emph-\"\u003e1 manuscript box\u003c/span\u003e, and 1 flat file\n          folder\u003cbr\u003e\u003c/span\u003e\n        \u003cspan class=\"ead-dimensions\"\u003e24\" x 24\"\u003c/span\u003e\n        \u003cspan class=\"ead-physfacet\"\u003e\u003cspan class=\"ead-emph ead-emph-\"\u003ehandwritten\u003c/span\u003e\u003c/span\u003e\n      ",
+                    "value": "         \u003cspan class=\"ead-extent\"\u003e25 Linear Feet\u003c/span\u003e         \u003cspan class=\"ead-extent\"\u003ein 24 record cartons, \u003cspan class=\"ead-emph ead-emph-\"\u003e1 manuscript box\u003c/span\u003e, and 1 flat file           folder\u003cbr\u003e\u003c/span\u003e         \u003cspan class=\"ead-dimensions\"\u003e24\" x 24\"\u003c/span\u003e         \u003cspan class=\"ead-physfacet\"\u003e\u003cspan class=\"ead-emph ead-emph-\"\u003ehandwritten\u003c/span\u003e\u003c/span\u003e       ",
                     "altrender": "whole",
                     "id": "aspace_984575749",
                     "label": "extent",
@@ -195,7 +195,7 @@
                             "altrender": "materialtype spaceoccupied"
                         },
                         {
-                            "value": "in 24 record cartons, \u003cspan class=\"ead-emph ead-emph-\"\u003e1 manuscript box\u003c/span\u003e, and 1 flat file\n          folder\u003cbr\u003e",
+                            "value": "in 24 record cartons, \u003cspan class=\"ead-emph ead-emph-\"\u003e1 manuscript box\u003c/span\u003e, and 1 flat file           folder\u003cbr\u003e",
                             "altrender": "carrier"
                         }
                     ],
@@ -284,7 +284,7 @@
             ],
             "langmaterial": [
                 {
-                    "value": "\u003cspan class=\"ead-language\"\u003eEnglish\u003c/span\u003e is\n          \u003cspan class=\"ead-emph ead-emph-\"\u003ethe language\u003c/span\u003e",
+                    "value": "\u003cspan class=\"ead-language\"\u003eEnglish\u003c/span\u003e is           \u003cspan class=\"ead-emph ead-emph-\"\u003ethe language\u003c/span\u003e",
                     "id": "aspace_791d685c5b2d2cc8c7d9d982ed6d5dee",
                     "language": "English"
                 }
@@ -320,7 +320,7 @@
                 }
             ],
             "repository": {
-                "value": "\n        \u003cspan class=\"ead-corpname\"\u003eTamiment Library and Robert F. Wagner Labor Archives\u003c/span\u003e\n      ",
+                "value": "         \u003cspan class=\"ead-corpname\"\u003eTamiment Library and Robert F. Wagner Labor Archives\u003c/span\u003e       ",
                 "corpname": {
                     "value": "Tamiment Library and Robert F. Wagner Labor Archives"
                 }
@@ -477,7 +477,7 @@
                                 {
                                     "corpname": [
                                         {
-                                            "value": "32BJ Service Employees International\n              Union"
+                                            "value": "32BJ Service Employees International               Union"
                                         }
                                     ],
                                     "persname": [
@@ -548,7 +548,7 @@
                                     }
                                 ],
                                 "unittitle": {
-                                    "value": "\u003cspan class=\"ead-emph ead-emph-\"\u003eThis is an item\u003c/span\u003e\u003cbr\u003e Here is a \u003cspan class=\"ead-title\"\u003etitle\u003c/span\u003e. There is\n              also a \u003cspan class=\"ead-name\"\u003ename\u003c/span\u003e.",
+                                    "value": "\u003cspan class=\"ead-emph ead-emph-\"\u003eThis is an item\u003c/span\u003e\u003cbr\u003e Here is a \u003cspan class=\"ead-title\"\u003etitle\u003c/span\u003e. There is               also a \u003cspan class=\"ead-name\"\u003ename\u003c/span\u003e.",
                                     "name": [
                                         {
                                             "value": "name"
@@ -606,7 +606,7 @@
                     ],
                     "did": {
                         "unittitle": {
-                            "value": "Series I. \u003cspan class=\"ead-persname\"\u003eMegan O'Shea\u003c/span\u003e\n            \u003cspan class=\"ead-name\"\u003eRolodex\u003c/span\u003e on \u003cspan class=\"ead-corpname\"\u003eNew York University\u003c/span\u003e",
+                            "value": "Series I. \u003cspan class=\"ead-persname\"\u003eMegan O'Shea\u003c/span\u003e             \u003cspan class=\"ead-name\"\u003eRolodex\u003c/span\u003e on \u003cspan class=\"ead-corpname\"\u003eNew York University\u003c/span\u003e",
                             "corpname": [
                                 {
                                     "value": "New York University"
@@ -791,7 +791,7 @@
                         "value": "This is the General note."
                     },
                     {
-                        "value": "\n        \u003cspan class=\"ead-address\"\u003e\n          \u003cspan class=\"ead-addressline\"\u003eElmer Holmes Bobst Library\u003c/span\u003e\n          \u003cspan class=\"ead-addressline\"\u003e70 Washington Square South\u003c/span\u003e\n          \u003cspan class=\"ead-addressline\"\u003e2nd Floor\u003c/span\u003e\n          \u003cspan class=\"ead-addressline\"\u003eNew York, NY 10012\u003c/span\u003e\n          \u003cspan class=\"ead-addressline\"\u003especial.collections@nyu.edu\u003c/span\u003e\n          \u003cspan class=\"ead-addressline\"\u003eURL: \u003cspan class=\"ead-extptr\"\u003e\u003c/span\u003e\u003c/span\u003e\n        \u003c/span\u003e\n        \u003cspan class=\"ead-abbr\"\u003eALS\u003c/span\u003e\n        \u003cspan class=\"ead-archref\"\u003e\n          \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage\n            Papers (TAM 189)\u003c/span\u003e\u003c/span\u003e\n        \u003cspan class=\"ead-bibref\"\u003e\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e. Port-au-Prince, 1865.\u003c/span\u003e\n        \u003cspan class=\"ead-blockquote\"\u003e\n          \u003cspan class=\"ead-p\"\u003eNo doubt the estate has exerted a tremendous influence on the development of my\n            character. One may walk for an hour without glimpsing another soul, which has taught me\n            to love tranquility.\u003c/span\u003e\n        \u003c/span\u003e\u003cbr\u003e\n        \u003cspan class=\"ead-corpname\"\u003eTamiment Library\u003c/span\u003e\n        \u003cspan class=\"ead-date\"\u003eMarch 2021\u003c/span\u003e\n        \u003cspan class=\"ead-list\"\u003e\n          \u003cspan class=\"ead-listhead\"\u003e\n            \u003cspan class=\"ead-head01\"\u003eAbbreviation\u003c/span\u003e\n            \u003cspan class=\"ead-head02\"\u003eExpansion\u003c/span\u003e\n          \u003c/span\u003e\n          \u003cspan class=\"ead-defitem\"\u003e\n            \u003cspan class=\"ead-label\"\u003eMIT\u003c/span\u003e\n            \u003cspan class=\"ead-item\"\u003eMassachusetts Institute of Technology\u003c/span\u003e\n          \u003c/span\u003e\n        \u003c/span\u003e\n        \u003cspan class=\"ead-genreform\"\u003eOral histories (literary works)\u003c/span\u003e\n        \u003cspan class=\"ead-name\"\u003eRolodex\u003c/span\u003e\n        \u003cspan class=\"ead-num\"\u003eMOS.2021\u003c/span\u003e\n        \u003cspan class=\"ead-occupation\"\u003eFulbright scholars.\u003c/span\u003e\n        \u003cspan class=\"ead-subject\"\u003eIrish American women -- History -- 19th century.\u003c/span\u003e\n      ",
+                        "value": "         \u003cspan class=\"ead-address\"\u003e           \u003cspan class=\"ead-addressline\"\u003eElmer Holmes Bobst Library\u003c/span\u003e           \u003cspan class=\"ead-addressline\"\u003e70 Washington Square South\u003c/span\u003e           \u003cspan class=\"ead-addressline\"\u003e2nd Floor\u003c/span\u003e           \u003cspan class=\"ead-addressline\"\u003eNew York, NY 10012\u003c/span\u003e           \u003cspan class=\"ead-addressline\"\u003especial.collections@nyu.edu\u003c/span\u003e           \u003cspan class=\"ead-addressline\"\u003eURL: \u003cspan class=\"ead-extptr\"\u003e\u003c/span\u003e\u003c/span\u003e         \u003c/span\u003e         \u003cspan class=\"ead-abbr\"\u003eALS\u003c/span\u003e         \u003cspan class=\"ead-archref\"\u003e           \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage             Papers (TAM 189)\u003c/span\u003e\u003c/span\u003e         \u003cspan class=\"ead-bibref\"\u003e\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e. Port-au-Prince, 1865.\u003c/span\u003e         \u003cspan class=\"ead-blockquote\"\u003e           \u003cspan class=\"ead-p\"\u003eNo doubt the estate has exerted a tremendous influence on the development of my             character. One may walk for an hour without glimpsing another soul, which has taught me             to love tranquility.\u003c/span\u003e         \u003c/span\u003e\u003cbr\u003e         \u003cspan class=\"ead-corpname\"\u003eTamiment Library\u003c/span\u003e         \u003cspan class=\"ead-date\"\u003eMarch 2021\u003c/span\u003e         \u003cspan class=\"ead-list\"\u003e           \u003cspan class=\"ead-listhead\"\u003e             \u003cspan class=\"ead-head01\"\u003eAbbreviation\u003c/span\u003e             \u003cspan class=\"ead-head02\"\u003eExpansion\u003c/span\u003e           \u003c/span\u003e           \u003cspan class=\"ead-defitem\"\u003e             \u003cspan class=\"ead-label\"\u003eMIT\u003c/span\u003e             \u003cspan class=\"ead-item\"\u003eMassachusetts Institute of Technology\u003c/span\u003e           \u003c/span\u003e         \u003c/span\u003e         \u003cspan class=\"ead-genreform\"\u003eOral histories (literary works)\u003c/span\u003e         \u003cspan class=\"ead-name\"\u003eRolodex\u003c/span\u003e         \u003cspan class=\"ead-num\"\u003eMOS.2021\u003c/span\u003e         \u003cspan class=\"ead-occupation\"\u003eFulbright scholars.\u003c/span\u003e         \u003cspan class=\"ead-subject\"\u003eIrish American women -- History -- 19th century.\u003c/span\u003e       ",
                         "id": "aspace_8383838",
                         "abbr": [
                             "ALS"
@@ -830,7 +830,7 @@
                         ],
                         "archref": [
                             {
-                                "value": "\n          \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage\n            Papers (TAM 189)\u003c/span\u003e"
+                                "value": "           \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage             Papers (TAM 189)\u003c/span\u003e"
                             }
                         ],
                         "bibref": [
@@ -973,10 +973,10 @@
                 },
                 "p": [
                     {
-                        "value": "This is the Related Materials note. Those using the collection may also be interested in\n        P132, held in this repository, which includes photographs of Pemberly, Darcy's estate and\n        childhood home. In an April 1795 letter to his friend, Charles Bingley, Darcy wrote \u003cspan class=\"ead-blockquote\"\u003e\n          \u003cspan class=\"ead-p\"\u003eNo doubt the estate has exerted a tremendous influence on the development of my\n            character. One may walk for an hour without glimpsing another soul, which has taught me\n            to love tranquility.\u003c/span\u003e\n        \u003c/span\u003e\n        \u003cspan class=\"ead-archref\"\u003e\n          \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage\n            Papers (TAM 189)\u003c/span\u003e\u003c/span\u003e",
+                        "value": "This is the Related Materials note. Those using the collection may also be interested in         P132, held in this repository, which includes photographs of Pemberly, Darcy's estate and         childhood home. In an April 1795 letter to his friend, Charles Bingley, Darcy wrote \u003cspan class=\"ead-blockquote\"\u003e           \u003cspan class=\"ead-p\"\u003eNo doubt the estate has exerted a tremendous influence on the development of my             character. One may walk for an hour without glimpsing another soul, which has taught me             to love tranquility.\u003c/span\u003e         \u003c/span\u003e         \u003cspan class=\"ead-archref\"\u003e           \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage             Papers (TAM 189)\u003c/span\u003e\u003c/span\u003e",
                         "archref": [
                             {
-                                "value": "\n          \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage\n            Papers (TAM 189)\u003c/span\u003e"
+                                "value": "           \u003cspan class=\"ead-extref\"\u003eThe Sally Belfrage             Papers (TAM 189)\u003c/span\u003e"
                             }
                         ]
                     }
@@ -1100,7 +1100,7 @@
                         "type": "filing"
                     },
                     {
-                        "value": "Guide to Megan O'Shea's \u003cspan class=\"ead-emph ead-emph-italic\"\u003eOne\u003c/span\u003e Resource to \u003cspan class=\"ead-lb\"\u003e\u003c/span\u003e Rule\n          Them All \u003cspan class=\"ead-num\"\u003eMOS.2021\u003c/span\u003e",
+                        "value": "Guide to Megan O'Shea's \u003cspan class=\"ead-emph ead-emph-italic\"\u003eOne\u003c/span\u003e Resource to \u003cspan class=\"ead-lb\"\u003e\u003c/span\u003e Rule           Them All \u003cspan class=\"ead-num\"\u003eMOS.2021\u003c/span\u003e",
                         "num": [
                             {
                                 "value": "MOS.2021",
@@ -1113,7 +1113,7 @@
         },
         "profiledesc": {
             "creation": {
-                "value": "This finding aid was produced using ArchivesSpace on \u003cspan class=\"ead-date\"\u003e2021-03-12 10:01:33\n          -0500\u003c/span\u003e."
+                "value": "This finding aid was produced using ArchivesSpace on \u003cspan class=\"ead-date\"\u003e2021-03-12 10:01:33           -0500\u003c/span\u003e."
             },
             "descrules": "Describing Archives: A Content Standard",
             "langusage": {
@@ -1128,7 +1128,7 @@
                         "value": "March 2021"
                     },
                     "item": {
-                        "value": "Updated by \u003cspan class=\"ead-emph ead-emph-bold\"\u003eMegan O'Shea\u003c/span\u003e in order to include \u003cspan class=\"ead-title\"\u003ethis\n            note.\u003c/span\u003e\u003cbr\u003e\n          \u003cspan class=\"ead-bibref\"\u003e\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e. Port-au-Prince, 1865.\u003c/span\u003e\n          \u003cspan class=\"ead-corpname\"\u003eTamiment Library and Robert F. Wagner Labor Archives\u003c/span\u003e\u003cspan class=\"ead-persname\"\u003e Megan\n          O'Shea\u003c/span\u003e\u003cspan class=\"ead-name\"\u003eRolodex\u003c/span\u003e",
+                        "value": "Updated by \u003cspan class=\"ead-emph ead-emph-bold\"\u003eMegan O'Shea\u003c/span\u003e in order to include \u003cspan class=\"ead-title\"\u003ethis             note.\u003c/span\u003e\u003cbr\u003e           \u003cspan class=\"ead-bibref\"\u003e\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e. Port-au-Prince, 1865.\u003c/span\u003e           \u003cspan class=\"ead-corpname\"\u003eTamiment Library and Robert F. Wagner Labor Archives\u003c/span\u003e\u003cspan class=\"ead-persname\"\u003e Megan           O'Shea\u003c/span\u003e\u003cspan class=\"ead-name\"\u003eRolodex\u003c/span\u003e",
                         "bibref": [
                             {
                                 "value": "\u003cspan class=\"ead-emph ead-emph-bold\"\u003eArdouin, Charles Nicholas Celigny\u003c/span\u003e. \u003cspan class=\"ead-title\"\u003eEssais sur l'histoire d'Haiti\u003c/span\u003e. Port-au-Prince, 1865.",
@@ -1153,12 +1153,12 @@
                         "persname": [
                             {
                                 "role": "Donor",
-                                "value": " Megan\n          O'Shea"
+                                "value": " Megan           O'Shea"
                             }
                         ],
                         "title": [
                             {
-                                "value": "this\n            note.",
+                                "value": "this             note.",
                                 "type": "example"
                             }
                         ]
